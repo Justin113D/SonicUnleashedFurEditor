@@ -3,7 +3,7 @@ schema_version = "1.0.0"
 id = "sonic_unleashed_fur_editor"
 version = "1.0.0"
 name = "Sonic Unleashed Fur Editor"
-tagline = "Adds tools to help with viewing and editing Sonic Unleashed fur normal data"
+tagline = "Adds tools to help with viewing and editing fur normal data"
 maintainer = "Justin113D"
 type = "add-on"
 
