@@ -1,0 +1,29 @@
+schema_version = "1.0.0"
+
+id = "sonic_unleashed_fur_editor"
+version = "1.0.0"
+name = "Sonic Unleashed Fur Editor"
+tagline = "Adds tools to help with viewing and editing Sonic Unleashed fur normal data"
+maintainer = "Justin113D"
+type = "add-on"
+
+website = "https://github.com/Justin113D/SonicUnleashedFurEditor"
+tags = ["Import-Export"]
+
+blender_version_min = "4.2.0"
+
+license = [
+  "SPDX:GPL-3.0-or-later",
+]
+
+[build]
+paths_exclude_pattern = [
+  "__pycache__/",
+  "/.venv/",
+  "/.vscode/",
+  "/.git/",
+  "*.bat",
+  ".*",
+  "*.blend1",
+  "*.dev.*",
+]
