@@ -17,3 +17,24 @@ This addon is installed via a custom extensions repository:
 8. Select the list entry, expand the ``advanced`` section and change the module from ``justin113d_com`` to ``sonic_io``
 9. Press the 🔄 button in the top right to refresh the module
 10. Search for ``Unleashed`` in the search bar and install the ``Sonic Unleashed Fur Editor`` addon
+
+## Usage
+
+### Tools
+You will find two tools in the "Tool" tab while in object mode:
+
+![Tools](./images/Tools.png)
+
+- **Add Sonic Unleashed Fur Shells**: Adds a geometry modifier to the active model that generate fur shells
+- **Add Sonic Unleashed Fur Editor**: Sets up color attributes for fur direction and length, as well as a geometry modifier to convert those color attributes to correct color data. The shells geometry modifier also gets added.
+
+![Geometry modifiers](./images/GeometryModifiers.png)
+
+### Vertex painting
+While in vertex paint, the "Tool" tab has different contents:
+
+![Vertex paint](./images/VertexPaint.png)
+
+These menus are used to change your brush color.
+
+You can press the small brush button of each menu to switch to editing the appropriate vertex color attribute.
