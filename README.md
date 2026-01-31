@@ -4,8 +4,6 @@ This addon adds tools for previewing as well as editing Unleashed fur shells.
 
 Sonic unleashed makes use of normals stored in a meshes vertex colors to generate the fur shells, which can make editing a hassle. This addon adds tools to make the process easier.
 
-This addon adds support for the Hedgehog Engine formats regarding import, export, animation editing, and additional features.
-
 ## Installation
 
 This addon is installed via a custom extensions repository:
